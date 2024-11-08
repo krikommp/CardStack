@@ -1,0 +1,1092 @@
+[
+  {
+    "id": 310001,
+    "name": "card_name_310001",
+    "type": 3,
+    "ownership": 1,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_310001",
+    "bStacked": true
+  },
+  {
+    "id": 310002,
+    "name": "card_name_310002",
+    "type": 3,
+    "ownership": 1,
+    "defaultCombinationCount": -1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_310002",
+    "bStacked": true
+  },
+  {
+    "id": 310003,
+    "name": "card_name_310003",
+    "type": 3,
+    "ownership": 1,
+    "defaultCombinationCount": -1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_310003",
+    "bStacked": true
+  },
+  {
+    "id": 211001,
+    "name": "card_name_211001",
+    "type": 2,
+    "ownership": 1,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_211001",
+    "bStacked": true
+  },
+  {
+    "id": 211002,
+    "name": "card_name_211002",
+    "type": 2,
+    "ownership": 1,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_211002",
+    "bStacked": true
+  },
+  {
+    "id": 211003,
+    "name": "card_name_211003",
+    "type": 2,
+    "ownership": 1,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_211003",
+    "bStacked": true
+  },
+  {
+    "id": 211004,
+    "name": "card_name_211004",
+    "type": 2,
+    "ownership": 1,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_211004",
+    "bStacked": true
+  },
+  {
+    "id": 213005,
+    "name": "card_name_213005",
+    "type": 2,
+    "ownership": 1,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_213005",
+    "bStacked": true
+  },
+  {
+    "id": 213006,
+    "name": "card_name_213006",
+    "type": 2,
+    "ownership": 1,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_213006",
+    "bStacked": true
+  },
+  {
+    "id": 222001,
+    "name": "card_name_222001",
+    "type": 2,
+    "ownership": 2,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_222001",
+    "bStacked": true
+  },
+  {
+    "id": 222002,
+    "name": "card_name_222002",
+    "type": 2,
+    "ownership": 2,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_222002",
+    "bStacked": true
+  },
+  {
+    "id": 222003,
+    "name": "card_name_222003",
+    "type": 2,
+    "ownership": 2,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_222003",
+    "bStacked": true
+  },
+  {
+    "id": 223004,
+    "name": "card_name_223004",
+    "type": 2,
+    "ownership": 2,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_223004",
+    "bStacked": true
+  },
+  {
+    "id": 223005,
+    "name": "card_name_223005",
+    "type": 2,
+    "ownership": 2,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_223005",
+    "bStacked": true
+  },
+  {
+    "id": 223006,
+    "name": "card_name_223006",
+    "type": 2,
+    "ownership": 2,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_223006",
+    "bStacked": true
+  },
+  {
+    "id": 223007,
+    "name": "card_name_223007",
+    "type": 2,
+    "ownership": 2,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_223007",
+    "bStacked": true
+  },
+  {
+    "id": 223008,
+    "name": "card_name_223008",
+    "type": 2,
+    "ownership": 2,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_223008",
+    "bStacked": true
+  },
+  {
+    "id": 222009,
+    "name": "card_name_222009",
+    "type": 2,
+    "ownership": 2,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_222009",
+    "bStacked": true
+  },
+  {
+    "id": 223010,
+    "name": "card_name_223010",
+    "type": 2,
+    "ownership": 2,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_223010",
+    "bStacked": true
+  },
+  {
+    "id": 223011,
+    "name": "card_name_223011",
+    "type": 2,
+    "ownership": 2,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_223011",
+    "bStacked": true
+  },
+  {
+    "id": 223012,
+    "name": "card_name_223012",
+    "type": 2,
+    "ownership": 2,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_223012",
+    "bStacked": true
+  },
+  {
+    "id": 223013,
+    "name": "card_name_223013",
+    "type": 2,
+    "ownership": 2,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_223013",
+    "bStacked": true
+  },
+  {
+    "id": 231001,
+    "name": "card_name_231001",
+    "type": 2,
+    "ownership": 3,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_231001",
+    "bStacked": true
+  },
+  {
+    "id": 233002,
+    "name": "card_name_233002",
+    "type": 2,
+    "ownership": 3,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_233002",
+    "bStacked": true
+  },
+  {
+    "id": 233003,
+    "name": "card_name_233003",
+    "type": 2,
+    "ownership": 3,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_233003",
+    "bStacked": true
+  },
+  {
+    "id": 233004,
+    "name": "card_name_233004",
+    "type": 2,
+    "ownership": 3,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_233004",
+    "bStacked": true
+  },
+  {
+    "id": 232005,
+    "name": "card_name_232005",
+    "type": 2,
+    "ownership": 3,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_232005",
+    "bStacked": true
+  },
+  {
+    "id": 232006,
+    "name": "card_name_232006",
+    "type": 2,
+    "ownership": 3,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_232006",
+    "bStacked": true
+  },
+  {
+    "id": 233007,
+    "name": "card_name_233007",
+    "type": 2,
+    "ownership": 3,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_233007",
+    "bStacked": true
+  },
+  {
+    "id": 233008,
+    "name": "card_name_233008",
+    "type": 2,
+    "ownership": 3,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_233008",
+    "bStacked": true
+  },
+  {
+    "id": 233009,
+    "name": "card_name_233009",
+    "type": 2,
+    "ownership": 3,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_233009",
+    "bStacked": true
+  },
+  {
+    "id": 231010,
+    "name": "card_name_231010",
+    "type": 2,
+    "ownership": 3,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_231010",
+    "bStacked": true
+  },
+  {
+    "id": 231011,
+    "name": "card_name_231011",
+    "type": 2,
+    "ownership": 3,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_231011",
+    "bStacked": true
+  },
+  {
+    "id": 241001,
+    "name": "card_name_241001",
+    "type": 2,
+    "ownership": 4,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_241001",
+    "bStacked": true
+  },
+  {
+    "id": 242002,
+    "name": "card_name_242002",
+    "type": 2,
+    "ownership": 4,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_242002",
+    "bStacked": true
+  },
+  {
+    "id": 243003,
+    "name": "card_name_243003",
+    "type": 2,
+    "ownership": 4,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_243003",
+    "bStacked": true
+  },
+  {
+    "id": 241004,
+    "name": "card_name_241004",
+    "type": 2,
+    "ownership": 4,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_241004",
+    "bStacked": true
+  },
+  {
+    "id": 242005,
+    "name": "card_name_242005",
+    "type": 2,
+    "ownership": 4,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_242005",
+    "bStacked": true
+  },
+  {
+    "id": 243006,
+    "name": "card_name_243006",
+    "type": 2,
+    "ownership": 4,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_243006",
+    "bStacked": true
+  },
+  {
+    "id": 150001,
+    "name": "card_name_150001",
+    "type": 1,
+    "ownership": 5,
+    "defaultCombinationCount": 1,
+    "durationTime": 3,
+    "iconUrl": "card_icon_150001",
+    "bStacked": true
+  },
+  {
+    "id": 150002,
+    "name": "card_name_150002",
+    "type": 1,
+    "ownership": 5,
+    "defaultCombinationCount": 1,
+    "durationTime": 3,
+    "iconUrl": "card_icon_150002",
+    "bStacked": true
+  },
+  {
+    "id": 150003,
+    "name": "card_name_150003",
+    "type": 1,
+    "ownership": 5,
+    "defaultCombinationCount": 1,
+    "durationTime": 3,
+    "iconUrl": "card_icon_150003",
+    "bStacked": true
+  },
+  {
+    "id": 160001,
+    "name": "card_name_160001",
+    "type": 1,
+    "ownership": 6,
+    "defaultCombinationCount": 1,
+    "durationTime": 3,
+    "iconUrl": "card_icon_160001",
+    "bStacked": true
+  },
+  {
+    "id": 160002,
+    "name": "card_name_160002",
+    "type": 1,
+    "ownership": 6,
+    "defaultCombinationCount": 1,
+    "durationTime": 3,
+    "iconUrl": "card_icon_160002",
+    "bStacked": true
+  },
+  {
+    "id": 160003,
+    "name": "card_name_160003",
+    "type": 1,
+    "ownership": 6,
+    "defaultCombinationCount": 1,
+    "durationTime": 3,
+    "iconUrl": "card_icon_160003",
+    "bStacked": true
+  },
+  {
+    "id": 160004,
+    "name": "card_name_160004",
+    "type": 1,
+    "ownership": 6,
+    "defaultCombinationCount": 1,
+    "durationTime": 3,
+    "iconUrl": "card_icon_160004",
+    "bStacked": true
+  },
+  {
+    "id": 160005,
+    "name": "card_name_160005",
+    "type": 1,
+    "ownership": 6,
+    "defaultCombinationCount": 1,
+    "durationTime": 3,
+    "iconUrl": "card_icon_160005",
+    "bStacked": true
+  },
+  {
+    "id": 160006,
+    "name": "card_name_160006",
+    "type": 1,
+    "ownership": 6,
+    "defaultCombinationCount": 1,
+    "durationTime": 3,
+    "iconUrl": "card_icon_160006",
+    "bStacked": true
+  },
+  {
+    "id": 160007,
+    "name": "card_name_160007",
+    "type": 1,
+    "ownership": 6,
+    "defaultCombinationCount": 1,
+    "durationTime": 3,
+    "iconUrl": "card_icon_160007",
+    "bStacked": true
+  },
+  {
+    "id": 160008,
+    "name": "card_name_160008",
+    "type": 1,
+    "ownership": 6,
+    "defaultCombinationCount": 1,
+    "durationTime": 3,
+    "iconUrl": "card_icon_160008",
+    "bStacked": true
+  },
+  {
+    "id": 160009,
+    "name": "card_name_160009",
+    "type": 1,
+    "ownership": 6,
+    "defaultCombinationCount": 1,
+    "durationTime": 3,
+    "iconUrl": "card_icon_160009",
+    "bStacked": true
+  },
+  {
+    "id": 470001,
+    "name": "card_name_470001",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470001",
+    "bStacked": false
+  },
+  {
+    "id": 470002,
+    "name": "card_name_470002",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470002",
+    "bStacked": false
+  },
+  {
+    "id": 470003,
+    "name": "card_name_470003",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470003",
+    "bStacked": false
+  },
+  {
+    "id": 470004,
+    "name": "card_name_470004",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470004",
+    "bStacked": false
+  },
+  {
+    "id": 470005,
+    "name": "card_name_470005",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470005",
+    "bStacked": false
+  },
+  {
+    "id": 470006,
+    "name": "card_name_470006",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470006",
+    "bStacked": false
+  },
+  {
+    "id": 470007,
+    "name": "card_name_470007",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470007",
+    "bStacked": false
+  },
+  {
+    "id": 470008,
+    "name": "card_name_470008",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470008",
+    "bStacked": false
+  },
+  {
+    "id": 470009,
+    "name": "card_name_470009",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470009",
+    "bStacked": false
+  },
+  {
+    "id": 470010,
+    "name": "card_name_470010",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470010",
+    "bStacked": false
+  },
+  {
+    "id": 470011,
+    "name": "card_name_470011",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470011",
+    "bStacked": false
+  },
+  {
+    "id": 470012,
+    "name": "card_name_470012",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470012",
+    "bStacked": false
+  },
+  {
+    "id": 470013,
+    "name": "card_name_470013",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470013",
+    "bStacked": false
+  },
+  {
+    "id": 470014,
+    "name": "card_name_470014",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470014",
+    "bStacked": false
+  },
+  {
+    "id": 470015,
+    "name": "card_name_470015",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470015",
+    "bStacked": false
+  },
+  {
+    "id": 470016,
+    "name": "card_name_470016",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470016",
+    "bStacked": false
+  },
+  {
+    "id": 180001,
+    "name": "card_name_180001",
+    "type": 1,
+    "ownership": 8,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_180001",
+    "bStacked": false
+  },
+  {
+    "id": 180002,
+    "name": "card_name_180002",
+    "type": 1,
+    "ownership": 8,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_180002",
+    "bStacked": false
+  },
+  {
+    "id": 180003,
+    "name": "card_name_180003",
+    "type": 1,
+    "ownership": 8,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_180003",
+    "bStacked": false
+  },
+  {
+    "id": 180004,
+    "name": "card_name_180004",
+    "type": 1,
+    "ownership": 8,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_180004",
+    "bStacked": false
+  },
+  {
+    "id": 591101,
+    "name": "card_name_591101",
+    "type": 5,
+    "ownership": 9,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_591101",
+    "bStacked": false
+  },
+  {
+    "id": 591102,
+    "name": "card_name_591102",
+    "type": 5,
+    "ownership": 9,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_591102",
+    "bStacked": false
+  },
+  {
+    "id": 591103,
+    "name": "card_name_591103",
+    "type": 5,
+    "ownership": 9,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_591103",
+    "bStacked": false
+  },
+  {
+    "id": 591104,
+    "name": "card_name_591104",
+    "type": 5,
+    "ownership": 9,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_591104",
+    "bStacked": false
+  },
+  {
+    "id": 591105,
+    "name": "card_name_591105",
+    "type": 5,
+    "ownership": 9,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_591105",
+    "bStacked": false
+  },
+  {
+    "id": 591201,
+    "name": "card_name_591201",
+    "type": 5,
+    "ownership": 9,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_591201",
+    "bStacked": false
+  },
+  {
+    "id": 591202,
+    "name": "card_name_591202",
+    "type": 5,
+    "ownership": 9,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_591202",
+    "bStacked": false
+  },
+  {
+    "id": 211007,
+    "name": "card_name_211007",
+    "type": 2,
+    "ownership": 1,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_211007",
+    "bStacked": true
+  },
+  {
+    "id": 213008,
+    "name": "card_name_213008",
+    "type": 2,
+    "ownership": 1,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_213008",
+    "bStacked": true
+  },
+  {
+    "id": 213009,
+    "name": "card_name_213009",
+    "type": 2,
+    "ownership": 1,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_213009",
+    "bStacked": true
+  },
+  {
+    "id": 213010,
+    "name": "card_name_213010",
+    "type": 2,
+    "ownership": 1,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_213010",
+    "bStacked": true
+  },
+  {
+    "id": 213011,
+    "name": "card_name_213011",
+    "type": 2,
+    "ownership": 1,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_213011",
+    "bStacked": true
+  },
+  {
+    "id": 213012,
+    "name": "card_name_213012",
+    "type": 2,
+    "ownership": 1,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_213012",
+    "bStacked": true
+  },
+  {
+    "id": 213013,
+    "name": "card_name_213013",
+    "type": 2,
+    "ownership": 1,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_213013",
+    "bStacked": true
+  },
+  {
+    "id": 213014,
+    "name": "card_name_213014",
+    "type": 2,
+    "ownership": 1,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_213014",
+    "bStacked": true
+  },
+  {
+    "id": 213015,
+    "name": "card_name_213015",
+    "type": 2,
+    "ownership": 1,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_213015",
+    "bStacked": true
+  },
+  {
+    "id": 213016,
+    "name": "card_name_213016",
+    "type": 2,
+    "ownership": 1,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_213016",
+    "bStacked": true
+  },
+  {
+    "id": 213017,
+    "name": "card_name_213017",
+    "type": 2,
+    "ownership": 1,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_213017",
+    "bStacked": true
+  },
+  {
+    "id": 213018,
+    "name": "card_name_213018",
+    "type": 2,
+    "ownership": 1,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_213018",
+    "bStacked": true
+  },
+  {
+    "id": 470017,
+    "name": "card_name_470017",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470017",
+    "bStacked": false
+  },
+  {
+    "id": 470018,
+    "name": "card_name_470018",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470018",
+    "bStacked": false
+  },
+  {
+    "id": 470019,
+    "name": "card_name_470019",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470019",
+    "bStacked": false
+  },
+  {
+    "id": 470020,
+    "name": "card_name_470020",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470020",
+    "bStacked": false
+  },
+  {
+    "id": 470021,
+    "name": "card_name_470021",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470021",
+    "bStacked": false
+  },
+  {
+    "id": 470022,
+    "name": "card_name_470022",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470022",
+    "bStacked": false
+  },
+  {
+    "id": 470023,
+    "name": "card_name_470023",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470023",
+    "bStacked": false
+  },
+  {
+    "id": 470024,
+    "name": "card_name_470024",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470024",
+    "bStacked": false
+  },
+  {
+    "id": 470025,
+    "name": "card_name_470025",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470025",
+    "bStacked": false
+  },
+  {
+    "id": 470026,
+    "name": "card_name_470026",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470026",
+    "bStacked": false
+  },
+  {
+    "id": 470027,
+    "name": "card_name_470027",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470027",
+    "bStacked": false
+  },
+  {
+    "id": 470028,
+    "name": "card_name_470028",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470028",
+    "bStacked": false
+  },
+  {
+    "id": 470029,
+    "name": "card_name_470029",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470029",
+    "bStacked": false
+  },
+  {
+    "id": 470030,
+    "name": "card_name_470030",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470030",
+    "bStacked": false
+  },
+  {
+    "id": 470031,
+    "name": "card_name_470031",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470031",
+    "bStacked": false
+  },
+  {
+    "id": 470032,
+    "name": "card_name_470032",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470032",
+    "bStacked": false
+  },
+  {
+    "id": 470033,
+    "name": "card_name_470033",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470033",
+    "bStacked": false
+  },
+  {
+    "id": 470034,
+    "name": "card_name_470034",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470034",
+    "bStacked": false
+  },
+  {
+    "id": 470035,
+    "name": "card_name_470035",
+    "type": 4,
+    "ownership": 7,
+    "defaultCombinationCount": 1,
+    "durationTime": -1,
+    "iconUrl": "card_icon_470035",
+    "bStacked": false
+  }
+]

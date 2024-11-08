@@ -1,0 +1,656 @@
+[
+  {
+    "localizeKey": "card_name_310001",
+    "zh_cn": "资源",
+    "zh_tw": "資源",
+    "en_us": "Resources"
+  },
+  {
+    "localizeKey": "card_name_310002",
+    "zh_cn": "劳动力",
+    "zh_tw": "勞動力",
+    "en_us": "Labor"
+  },
+  {
+    "localizeKey": "card_name_310003",
+    "zh_cn": "办公室",
+    "zh_tw": "辦公室",
+    "en_us": "Office"
+  },
+  {
+    "localizeKey": "card_name_211001",
+    "zh_cn": "研究报告",
+    "zh_tw": "研究報告",
+    "en_us": "Research Report"
+  },
+  {
+    "localizeKey": "card_name_211002",
+    "zh_cn": "木头",
+    "zh_tw": "木头",
+    "en_us": "Wood"
+  },
+  {
+    "localizeKey": "card_name_211003",
+    "zh_cn": "草甸",
+    "zh_tw": "草甸",
+    "en_us": "Meadow"
+  },
+  {
+    "localizeKey": "card_name_211004",
+    "zh_cn": "砖块",
+    "zh_tw": "磚塊",
+    "en_us": "Brick"
+  },
+  {
+    "localizeKey": "card_name_213005",
+    "zh_cn": "墙壁",
+    "zh_tw": "牆壁",
+    "en_us": "Wall"
+  },
+  {
+    "localizeKey": "card_name_213006",
+    "zh_cn": "屋顶",
+    "zh_tw": "屋頂",
+    "en_us": "Roof"
+  },
+  {
+    "localizeKey": "card_name_222001",
+    "zh_cn": "草地",
+    "zh_tw": "草地",
+    "en_us": "Grass"
+  },
+  {
+    "localizeKey": "card_name_222002",
+    "zh_cn": "花",
+    "zh_tw": "花",
+    "en_us": "Flower"
+  },
+  {
+    "localizeKey": "card_name_222003",
+    "zh_cn": "树",
+    "zh_tw": "樹",
+    "en_us": "Tree"
+  },
+  {
+    "localizeKey": "card_name_223004",
+    "zh_cn": "花园",
+    "zh_tw": "花園",
+    "en_us": "Garden"
+  },
+  {
+    "localizeKey": "card_name_223005",
+    "zh_cn": "公园",
+    "zh_tw": "公園",
+    "en_us": "Park"
+  },
+  {
+    "localizeKey": "card_name_223006",
+    "zh_cn": "城市花园",
+    "zh_tw": "城市花園",
+    "en_us": "Urban Garden"
+  },
+  {
+    "localizeKey": "card_name_223007",
+    "zh_cn": "屋顶花园",
+    "zh_tw": "屋頂花園",
+    "en_us": "Roof Garden"
+  },
+  {
+    "localizeKey": "card_name_223008",
+    "zh_cn": "城市森林",
+    "zh_tw": "城市森林",
+    "en_us": "City Forest"
+  },
+  {
+    "localizeKey": "card_name_222009",
+    "zh_cn": "池塘",
+    "zh_tw": "池塘",
+    "en_us": "Pond"
+  },
+  {
+    "localizeKey": "card_name_223010",
+    "zh_cn": "湿地",
+    "zh_tw": "濕地",
+    "en_us": "Wetland"
+  },
+  {
+    "localizeKey": "card_name_223011",
+    "zh_cn": "绿色屏障",
+    "zh_tw": "綠色屏障",
+    "en_us": "Green Barrier"
+  },
+  {
+    "localizeKey": "card_name_223012",
+    "zh_cn": "生态走廊",
+    "zh_tw": "生態走廊",
+    "en_us": "Eco Corridor"
+  },
+  {
+    "localizeKey": "card_name_223013",
+    "zh_cn": "社区花圃",
+    "zh_tw": "社區花圃",
+    "en_us": "Community Flower Bed"
+  },
+  {
+    "localizeKey": "card_name_231001",
+    "zh_cn": "雨水",
+    "zh_tw": "雨水",
+    "en_us": "Rainwater"
+  },
+  {
+    "localizeKey": "card_name_233002",
+    "zh_cn": "雨水收集器",
+    "zh_tw": "雨水收集器",
+    "en_us": "Rain Collector"
+  },
+  {
+    "localizeKey": "card_name_233003",
+    "zh_cn": "风能发电",
+    "zh_tw": "風能發電",
+    "en_us": "Wind Power"
+  },
+  {
+    "localizeKey": "card_name_233004",
+    "zh_cn": "太阳能板",
+    "zh_tw": "太陽能板",
+    "en_us": "Solar Panel"
+  },
+  {
+    "localizeKey": "card_name_232005",
+    "zh_cn": "昆虫酒店",
+    "zh_tw": "昆蟲酒店",
+    "en_us": "Insect Hotel"
+  },
+  {
+    "localizeKey": "card_name_232006",
+    "zh_cn": "本地物种引入",
+    "zh_tw": "本地物種引入",
+    "en_us": "Native Species"
+  },
+  {
+    "localizeKey": "card_name_233007",
+    "zh_cn": "海绵城市系统",
+    "zh_tw": "海綿城市系統",
+    "en_us": "Sponge City"
+  },
+  {
+    "localizeKey": "card_name_233008",
+    "zh_cn": "自然保护区",
+    "zh_tw": "自然保護區",
+    "en_us": "Nature Reserve"
+  },
+  {
+    "localizeKey": "card_name_233009",
+    "zh_cn": "野生动物走廊",
+    "zh_tw": "野生動物走廊",
+    "en_us": "Wildlife Corridor"
+  },
+  {
+    "localizeKey": "card_name_231010",
+    "zh_cn": "风能",
+    "zh_tw": "風能",
+    "en_us": "Wind Energy\n"
+  },
+  {
+    "localizeKey": "card_name_231011",
+    "zh_cn": "太阳能",
+    "zh_tw": "太陽能",
+    "en_us": "Aolar Energy"
+  },
+  {
+    "localizeKey": "card_name_241001",
+    "zh_cn": "环保讲座",
+    "zh_tw": "環保講座",
+    "en_us": "Eco Lecture"
+  },
+  {
+    "localizeKey": "card_name_242002",
+    "zh_cn": "社区合作社",
+    "zh_tw": "社區合作社",
+    "en_us": "Community Co-Op"
+  },
+  {
+    "localizeKey": "card_name_243003",
+    "zh_cn": "环保创业",
+    "zh_tw": "環保創業",
+    "en_us": "Eco Startup"
+  },
+  {
+    "localizeKey": "card_name_241004",
+    "zh_cn": "公共图书馆",
+    "zh_tw": "公共圖書館",
+    "en_us": "Public Library"
+  },
+  {
+    "localizeKey": "card_name_242005",
+    "zh_cn": "志愿者组织",
+    "zh_tw": "志願者組織",
+    "en_us": "Volunteer Group"
+  },
+  {
+    "localizeKey": "card_name_243006",
+    "zh_cn": "社区健康项目",
+    "zh_tw": "社區健康項目",
+    "en_us": "Health Project"
+  },
+  {
+    "localizeKey": "card_name_150001",
+    "zh_cn": "冬季集市",
+    "zh_tw": "冬季集市",
+    "en_us": "Winter Fair"
+  },
+  {
+    "localizeKey": "card_name_150002",
+    "zh_cn": "仲夏活动",
+    "zh_tw": "仲夏活動",
+    "en_us": "Midsummer Event"
+  },
+  {
+    "localizeKey": "card_name_150003",
+    "zh_cn": "遗产周末",
+    "zh_tw": "遺產週末",
+    "en_us": "Heritage Weekend"
+  },
+  {
+    "localizeKey": "card_name_160001",
+    "zh_cn": "考古发现",
+    "zh_tw": "考古發現",
+    "en_us": "Archaeology"
+  },
+  {
+    "localizeKey": "card_name_160002",
+    "zh_cn": "社区抗议",
+    "zh_tw": "社區抗議",
+    "en_us": "Protest"
+  },
+  {
+    "localizeKey": "card_name_160003",
+    "zh_cn": "极端天气",
+    "zh_tw": "極端天氣",
+    "en_us": "Extreme Weather"
+  },
+  {
+    "localizeKey": "card_name_160004",
+    "zh_cn": "健康问题",
+    "zh_tw": "健康問題",
+    "en_us": "Health Issue"
+  },
+  {
+    "localizeKey": "card_name_160005",
+    "zh_cn": "能源短缺",
+    "zh_tw": "能源短缺",
+    "en_us": "Energy Shortage"
+  },
+  {
+    "localizeKey": "card_name_160006",
+    "zh_cn": "环保检查",
+    "zh_tw": "環保檢查",
+    "en_us": "Eco Check"
+  },
+  {
+    "localizeKey": "card_name_160007",
+    "zh_cn": "居民投诉",
+    "zh_tw": "居民投訴",
+    "en_us": "Complaint"
+  },
+  {
+    "localizeKey": "card_name_160008",
+    "zh_cn": "设备故障",
+    "zh_tw": "設備故障",
+    "en_us": "Equipment Failure"
+  },
+  {
+    "localizeKey": "card_name_160009",
+    "zh_cn": "自然灾害",
+    "zh_tw": "自然災害",
+    "en_us": "Natural Disaster"
+  },
+  {
+    "localizeKey": "card_name_470001",
+    "zh_cn": "海鸥",
+    "zh_tw": "海鷗",
+    "en_us": "Seagull"
+  },
+  {
+    "localizeKey": "card_name_470002",
+    "zh_cn": "鸽子",
+    "zh_tw": "鴿子",
+    "en_us": "Pigeon"
+  },
+  {
+    "localizeKey": "card_name_470003",
+    "zh_cn": "麻雀",
+    "zh_tw": "麻雀",
+    "en_us": "Sparrow"
+  },
+  {
+    "localizeKey": "card_name_470004",
+    "zh_cn": "乌鸦",
+    "zh_tw": "烏鴉",
+    "en_us": "Crow"
+  },
+  {
+    "localizeKey": "card_name_470005",
+    "zh_cn": "红雀",
+    "zh_tw": "紅雀",
+    "en_us": "Cardinal"
+  },
+  {
+    "localizeKey": "card_name_470006",
+    "zh_cn": "猫",
+    "zh_tw": "貓",
+    "en_us": "Cat"
+  },
+  {
+    "localizeKey": "card_name_470007",
+    "zh_cn": "狗",
+    "zh_tw": "狗",
+    "en_us": "Dog"
+  },
+  {
+    "localizeKey": "card_name_470008",
+    "zh_cn": "蝴蝶",
+    "zh_tw": "蝴蝶",
+    "en_us": "Butterfly"
+  },
+  {
+    "localizeKey": "card_name_470009",
+    "zh_cn": "蜜蜂",
+    "zh_tw": "蜜蜂",
+    "en_us": "Bee"
+  },
+  {
+    "localizeKey": "card_name_470010",
+    "zh_cn": "狐狸",
+    "zh_tw": "狐狸",
+    "en_us": "Fox"
+  },
+  {
+    "localizeKey": "card_name_470011",
+    "zh_cn": "刺猬",
+    "zh_tw": "刺蝟",
+    "en_us": "Hedgehog"
+  },
+  {
+    "localizeKey": "card_name_470012",
+    "zh_cn": "松鼠",
+    "zh_tw": "松鼠",
+    "en_us": "Squirrel"
+  },
+  {
+    "localizeKey": "card_name_470013",
+    "zh_cn": "田鼠",
+    "zh_tw": "田鼠",
+    "en_us": "Field Mouse"
+  },
+  {
+    "localizeKey": "card_name_470014",
+    "zh_cn": "青蛙",
+    "zh_tw": "青蛙",
+    "en_us": "Frog"
+  },
+  {
+    "localizeKey": "card_name_470015",
+    "zh_cn": "马",
+    "zh_tw": "馬",
+    "en_us": "Horse"
+  },
+  {
+    "localizeKey": "card_name_470016",
+    "zh_cn": "兔",
+    "zh_tw": "兔",
+    "en_us": "Rabbit"
+  },
+  {
+    "localizeKey": "card_name_180001",
+    "zh_cn": "拓宽道路",
+    "zh_tw": "拓寬道路",
+    "en_us": "Road Widening"
+  },
+  {
+    "localizeKey": "card_name_180002",
+    "zh_cn": "增设人行步道",
+    "zh_tw": "增設人行步道",
+    "en_us": "Adding Pedestrian Paths"
+  },
+  {
+    "localizeKey": "card_name_180003",
+    "zh_cn": "限制车辆通行",
+    "zh_tw": "限制車輛通行",
+    "en_us": "Restricting Vehicle Traffic"
+  },
+  {
+    "localizeKey": "card_name_180004",
+    "zh_cn": "智能交通管理",
+    "zh_tw": "智慧交通管理",
+    "en_us": "Smart Traffic Management"
+  },
+  {
+    "localizeKey": "card_name_591101",
+    "zh_cn": "效率",
+    "zh_tw": "效率",
+    "en_us": "Efficiency"
+  },
+  {
+    "localizeKey": "card_name_591102",
+    "zh_cn": "完善的基础设施",
+    "zh_tw": "完善的基礎設施",
+    "en_us": "Improved Infrastructure"
+  },
+  {
+    "localizeKey": "card_name_591103",
+    "zh_cn": "优美的环境",
+    "zh_tw": "優美的環境",
+    "en_us": "Beautiful Environment"
+  },
+  {
+    "localizeKey": "card_name_591104",
+    "zh_cn": "优秀的生态",
+    "zh_tw": "優秀的生態",
+    "en_us": "Excellent Ecology"
+  },
+  {
+    "localizeKey": "card_name_591105",
+    "zh_cn": "舒适的民生",
+    "zh_tw": "舒適的民生",
+    "en_us": "Comfortable People'S Livelihood"
+  },
+  {
+    "localizeKey": "card_name_591201",
+    "zh_cn": "抗议",
+    "zh_tw": "抗議",
+    "en_us": "Protests"
+  },
+  {
+    "localizeKey": "card_name_591202",
+    "zh_cn": "拥堵",
+    "zh_tw": "擁堵",
+    "en_us": "Congestion"
+  },
+  {
+    "localizeKey": "card_name_211007",
+    "zh_cn": "石头",
+    "zh_tw": "石頭",
+    "en_us": "Stone"
+  },
+  {
+    "localizeKey": "card_name_213008",
+    "zh_cn": "木桩",
+    "zh_tw": "木樁",
+    "en_us": "Wooden Stake"
+  },
+  {
+    "localizeKey": "card_name_213009",
+    "zh_cn": "鸟巢盒",
+    "zh_tw": "鳥巢盒",
+    "en_us": "Bird'S Nest Box"
+  },
+  {
+    "localizeKey": "card_name_213010",
+    "zh_cn": "石堆",
+    "zh_tw": "石堆",
+    "en_us": "Pile Of Rocks"
+  },
+  {
+    "localizeKey": "card_name_213011",
+    "zh_cn": "种子",
+    "zh_tw": "種子",
+    "en_us": "Seed"
+  },
+  {
+    "localizeKey": "card_name_213012",
+    "zh_cn": "花籽",
+    "zh_tw": "花籽",
+    "en_us": "Flower Seeds"
+  },
+  {
+    "localizeKey": "card_name_213013",
+    "zh_cn": "喂食器",
+    "zh_tw": "餵食器",
+    "en_us": "Feeder"
+  },
+  {
+    "localizeKey": "card_name_213014",
+    "zh_cn": "土壤",
+    "zh_tw": "土壤",
+    "en_us": "Soil"
+  },
+  {
+    "localizeKey": "card_name_213015",
+    "zh_cn": "墓碑",
+    "zh_tw": "墓碑",
+    "en_us": "Tombstone"
+  },
+  {
+    "localizeKey": "card_name_213016",
+    "zh_cn": "墓地",
+    "zh_tw": "墓園",
+    "en_us": "Cemetery"
+  },
+  {
+    "localizeKey": "card_name_213017",
+    "zh_cn": "资金",
+    "zh_tw": "資金",
+    "en_us": "Funds"
+  },
+  {
+    "localizeKey": "card_name_213018",
+    "zh_cn": "志愿者",
+    "zh_tw": "志工",
+    "en_us": "Volunteer"
+  },
+  {
+    "localizeKey": "card_name_470017",
+    "zh_cn": "蝾螈",
+    "zh_tw": "蠑螈",
+    "en_us": "Salamanders"
+  },
+  {
+    "localizeKey": "card_name_470018",
+    "zh_cn": "蜥蜴",
+    "zh_tw": "蜥蜴",
+    "en_us": " Lizards"
+  },
+  {
+    "localizeKey": "card_name_470019",
+    "zh_cn": "蛇",
+    "zh_tw": "蛇",
+    "en_us": " Snakes"
+  },
+  {
+    "localizeKey": "card_name_470020",
+    "zh_cn": "牛",
+    "zh_tw": "牛",
+    "en_us": " Cows"
+  },
+  {
+    "localizeKey": "card_name_470021",
+    "zh_cn": "黑鸟",
+    "zh_tw": "黑鳥",
+    "en_us": " Blackbirds"
+  },
+  {
+    "localizeKey": "card_name_470022",
+    "zh_cn": "蓝山雀",
+    "zh_tw": "藍山雀",
+    "en_us": " Blue Tits"
+  },
+  {
+    "localizeKey": "card_name_470023",
+    "zh_cn": "松鸦",
+    "zh_tw": "松鴉",
+    "en_us": " Jays"
+  },
+  {
+    "localizeKey": "card_name_470024",
+    "zh_cn": "瓢虫",
+    "zh_tw": "瓢蟲",
+    "en_us": " Ladybugs"
+  },
+  {
+    "localizeKey": "card_name_470025",
+    "zh_cn": "甲虫",
+    "zh_tw": "甲蟲",
+    "en_us": " Beetles"
+  },
+  {
+    "localizeKey": "card_name_470026",
+    "zh_cn": "猫头鹰",
+    "zh_tw": "貓頭鷹",
+    "en_us": " Owls"
+  },
+  {
+    "localizeKey": "card_name_470027",
+    "zh_cn": "啄木鸟",
+    "zh_tw": "啄木鳥",
+    "en_us": " Woodpeckers"
+  },
+  {
+    "localizeKey": "card_name_470028",
+    "zh_cn": "知更鸟",
+    "zh_tw": "知更鳥",
+    "en_us": " Robins"
+  },
+  {
+    "localizeKey": "card_name_470029",
+    "zh_cn": "画眉",
+    "zh_tw": "畫眉",
+    "en_us": " Thrushes"
+  },
+  {
+    "localizeKey": "card_name_470030",
+    "zh_cn": "喜鹊",
+    "zh_tw": "喜鵲",
+    "en_us": " Magpies"
+  },
+  {
+    "localizeKey": "card_name_470031",
+    "zh_cn": "白箔鸟",
+    "zh_tw": "白箔鳥",
+    "en_us": " Magpies"
+  },
+  {
+    "localizeKey": "card_name_470032",
+    "zh_cn": "白喉莺",
+    "zh_tw": "白喉鶯",
+    "en_us": " Magpies"
+  },
+  {
+    "localizeKey": "card_name_470033",
+    "zh_cn": "柳莺",
+    "zh_tw": "柳鶯",
+    "en_us": " Magpies"
+  },
+  {
+    "localizeKey": "card_name_470034",
+    "zh_cn": "野鸡",
+    "zh_tw": "野雞",
+    "en_us": " Magpies"
+  },
+  {
+    "localizeKey": "card_name_470035",
+    "zh_cn": "红翼",
+    "zh_tw": "紅翼",
+    "en_us": " Magpies"
+  }
+]

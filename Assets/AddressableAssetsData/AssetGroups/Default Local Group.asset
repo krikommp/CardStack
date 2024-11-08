@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 08e2df8fc5615974199b8f451c2b020b
+  m_SerializeEntries:
+  - m_GUID: 19677a17674ec5143903c333fd6a5c34
+    m_Address: Card
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a47183e7c9c1c14fa9fb57abfec6371
+    m_Address: CardAssetDevelopSettings
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DevelopSettings
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 050db4a0b1b7df44a9a07a7db9bd48ae
+    m_Address: CardParameterDevelopSettings
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DevelopSettings
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42368557b994e414289075b46035fec9
+    m_Address: CardStack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62d665d4e24f91a47a1edd061ee4b1ee
+    m_Address: CardData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f33889cd70189c4fad42470b9ed93c9
+    m_Address: CardFormula
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f67752f0437d724cadf95caa7237bda
+    m_Address: IconTable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6f5f1b8936bf2143b2ac11129c1ec6b
+    m_Address: LocalizeTable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf8980f5b304ceb4caf9d2d10936ad0d
+    m_Address: Atlas_CardIcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CardIcon
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0f7c55ffaf5520040baaeea784f45f8b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bee1a4482fb22f84690fdbbe57b435e7, type: 2}
+    - {fileID: 11400000, guid: 8d5d5aa724e72d64fbf5be13ba187204, type: 2}

@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "1_001",
+    "formula": [
+      223005,
+      310002,
+      -1
+    ],
+    "result": 223006,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 2,
+    "num": 1
+  },
+  {
+    "id": "1_002",
+    "formula": [
+      223005,
+      222003,
+      -1
+    ],
+    "result": 223008,
+    "weights": [],
+    "speedTime": 3,
+    "num": 0
+  },
+  {
+    "id": "1_003",
+    "formula": [
+      213005,
+      222001,
+      -1
+    ],
+    "result": 223011,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 1,
+    "num": 1
+  },
+  {
+    "id": "1_004",
+    "formula": [
+      231001,
+      310002,
+      -1
+    ],
+    "result": 233002,
+    "weights": [
+      2,
+      1,
+      0
+    ],
+    "speedTime": 1,
+    "num": 1
+  },
+  {
+    "id": "1_005",
+    "formula": [
+      231010,
+      231001,
+      -1
+    ],
+    "result": 233003,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 2,
+    "num": 1
+  },
+  {
+    "id": "1_006",
+    "formula": [
+      310002,
+      231011,
+      -1
+    ],
+    "result": 233004,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 2,
+    "num": 1
+  },
+  {
+    "id": "1_007",
+    "formula": [
+      242002,
+      213017,
+      -1
+    ],
+    "result": 243003,
+    "weights": [
+      1,
+      3,
+      0
+    ],
+    "speedTime": 1,
+    "num": 1
+  },
+  {
+    "id": "2_001",
+    "formula": [
+      310002,
+      211003,
+      -1
+    ],
+    "result": 222001,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 0.5,
+    "num": 1
+  },
+  {
+    "id": "2_002",
+    "formula": [
+      222001,
+      222002,
+      -1
+    ],
+    "result": 223004,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 1,
+    "num": 1
+  },
+  {
+    "id": "2_003",
+    "formula": [
+      223004,
+      222003,
+      -1
+    ],
+    "result": 223005,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 1.5,
+    "num": 1
+  },
+  {
+    "id": "2_004",
+    "formula": [
+      231001,
+      211003,
+      -1
+    ],
+    "result": 222009,
+    "weights": [
+      2,
+      1,
+      0
+    ],
+    "speedTime": 1,
+    "num": 1
+  },
+  {
+    "id": "2_005",
+    "formula": [
+      222009,
+      222001,
+      231001
+    ],
+    "result": 223010,
+    "weights": [
+      1,
+      1,
+      1
+    ],
+    "speedTime": 2,
+    "num": 1
+  },
+  {
+    "id": "2_006",
+    "formula": [
+      310002,
+      223004,
+      -1
+    ],
+    "result": 223013,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 2,
+    "num": 1
+  },
+  {
+    "id": "2_007",
+    "formula": [
+      211002,
+      211004,
+      211003
+    ],
+    "result": 232005,
+    "weights": [
+      1,
+      1,
+      1
+    ],
+    "speedTime": 0.25,
+    "num": 1
+  },
+  {
+    "id": "2_008",
+    "formula": [
+      213009,
+      232005,
+      -1
+    ],
+    "result": 232006,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 2,
+    "num": 1
+  },
+  {
+    "id": "2_009",
+    "formula": [
+      223008,
+      232006,
+      -1
+    ],
+    "result": 233008,
+    "weights": [],
+    "speedTime": 3,
+    "num": 0
+  },
+  {
+    "id": "2_010",
+    "formula": [
+      223012,
+      233008,
+      -1
+    ],
+    "result": 233009,
+    "weights": [],
+    "speedTime": 5,
+    "num": 0
+  },
+  {
+    "id": "2_011",
+    "formula": [
+      310003,
+      213018,
+      -1
+    ],
+    "result": 241001,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 2,
+    "num": 1
+  },
+  {
+    "id": "2_012",
+    "formula": [
+      242005,
+      310003,
+      -1
+    ],
+    "result": 242002,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 6,
+    "num": 1
+  },
+  {
+    "id": "2_013",
+    "formula": [
+      213018,
+      241001,
+      -1
+    ],
+    "result": 242005,
+    "weights": [
+      3,
+      0,
+      0
+    ],
+    "speedTime": 3,
+    "num": 1
+  },
+  {
+    "id": "2_014",
+    "formula": [
+      242002,
+      242003,
+      242005
+    ],
+    "result": 243006,
+    "weights": [],
+    "speedTime": 5,
+    "num": 0
+  },
+  {
+    "id": "3_001",
+    "formula": [
+      213011,
+      231001,
+      -1
+    ],
+    "result": 222002,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 1,
+    "num": 1
+  },
+  {
+    "id": "3_002",
+    "formula": [
+      213011,
+      231001,
+      -1
+    ],
+    "result": 222003,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 1,
+    "num": 1
+  },
+  {
+    "id": "3_003",
+    "formula": [
+      213014,
+      222002,
+      -1
+    ],
+    "result": 222002,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 1,
+    "num": 1
+  },
+  {
+    "id": "3_004",
+    "formula": [
+      213014,
+      222003,
+      -1
+    ],
+    "result": 222003,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 1,
+    "num": 1
+  },
+  {
+    "id": "3_005",
+    "formula": [
+      310003,
+      310002,
+      -1
+    ],
+    "result": 213017,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 0.25,
+    "num": 1
+  },
+  {
+    "id": "3_006",
+    "formula": [
+      211004,
+      211002,
+      310002
+    ],
+    "result": 213006,
+    "weights": [
+      1,
+      2,
+      1
+    ],
+    "speedTime": 0.25,
+    "num": 1
+  },
+  {
+    "id": "3_007",
+    "formula": [
+      211004,
+      310002,
+      -1
+    ],
+    "result": 213005,
+    "weights": [
+      3,
+      1,
+      0
+    ],
+    "speedTime": 0.1,
+    "num": 1
+  },
+  {
+    "id": "3_009",
+    "formula": [
+      213006,
+      223004,
+      -1
+    ],
+    "result": 223007,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 2,
+    "num": 1
+  },
+  {
+    "id": "3_010",
+    "formula": [
+      223011,
+      223010,
+      -1
+    ],
+    "result": 223012,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 2,
+    "num": 1
+  },
+  {
+    "id": "3_011",
+    "formula": [
+      233002,
+      223010,
+      -1
+    ],
+    "result": 233007,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 3,
+    "num": 1
+  },
+  {
+    "id": "3_012",
+    "formula": [
+      150001,
+      300001,
+      -1
+    ],
+    "result": -1,
+    "weights": [],
+    "speedTime": 0,
+    "num": 0
+  },
+  {
+    "id": "3_013",
+    "formula": [
+      150002,
+      300002,
+      -1
+    ],
+    "result": -1,
+    "weights": [],
+    "speedTime": 0,
+    "num": 0
+  },
+  {
+    "id": "3_014",
+    "formula": [
+      150003,
+      300003,
+      -1
+    ],
+    "result": -1,
+    "weights": [],
+    "speedTime": 0,
+    "num": 0
+  },
+  {
+    "id": "3_015",
+    "formula": [
+      160001,
+      300002,
+      -1
+    ],
+    "result": -1,
+    "weights": [],
+    "speedTime": 1,
+    "num": 0
+  },
+  {
+    "id": "3_016",
+    "formula": [
+      160002,
+      241001,
+      -1
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 1,
+    "num": 0
+  },
+  {
+    "id": "3_017",
+    "formula": [
+      160002,
+      242005,
+      -1
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 1,
+    "num": 0
+  },
+  {
+    "id": "3_018",
+    "formula": [
+      160003,
+      233002,
+      -1
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 1,
+    "num": 0
+  },
+  {
+    "id": "3_019",
+    "formula": [
+      160003,
+      233003,
+      -1
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 1,
+    "num": 0
+  },
+  {
+    "id": "3_020",
+    "formula": [
+      160004,
+      300002,
+      -1
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 1,
+    "num": 0
+  },
+  {
+    "id": "3_021",
+    "formula": [
+      160005,
+      233004,
+      -1
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 1,
+    "num": 0
+  },
+  {
+    "id": "3_022",
+    "formula": [
+      160005,
+      233003,
+      -1
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 1,
+    "num": 0
+  },
+  {
+    "id": "3_023",
+    "formula": [
+      160006,
+      222001,
+      -1
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 0,
+    "num": 0
+  },
+  {
+    "id": "3_024",
+    "formula": [
+      160006,
+      222002,
+      -1
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 0,
+    "num": 0
+  },
+  {
+    "id": "3_025",
+    "formula": [
+      160006,
+      222003,
+      -1
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 0,
+    "num": 0
+  },
+  {
+    "id": "3_026",
+    "formula": [
+      160006,
+      223004,
+      -1
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 0,
+    "num": 0
+  },
+  {
+    "id": "3_027",
+    "formula": [
+      160006,
+      223005,
+      -1
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 0,
+    "num": 0
+  },
+  {
+    "id": "3_028",
+    "formula": [
+      160006,
+      223006,
+      -1
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 0,
+    "num": 0
+  },
+  {
+    "id": "3_029",
+    "formula": [
+      160006,
+      223007,
+      -1
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 0,
+    "num": 0
+  },
+  {
+    "id": "3_030",
+    "formula": [
+      160006,
+      223008,
+      -1
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 0,
+    "num": 0
+  },
+  {
+    "id": "3_031",
+    "formula": [
+      160006,
+      222009,
+      -1
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 0,
+    "num": 0
+  },
+  {
+    "id": "3_032",
+    "formula": [
+      160006,
+      223010,
+      -1
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 0,
+    "num": 0
+  },
+  {
+    "id": "3_033",
+    "formula": [
+      160006,
+      223011,
+      -1
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 0,
+    "num": 0
+  },
+  {
+    "id": "3_034",
+    "formula": [
+      160006,
+      223012,
+      -1
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 0,
+    "num": 0
+  },
+  {
+    "id": "3_035",
+    "formula": [
+      160006,
+      223013,
+      -1
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 0,
+    "num": 0
+  },
+  {
+    "id": "3_036",
+    "formula": [
+      160007,
+      241001,
+      -1
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 1,
+    "num": 0
+  },
+  {
+    "id": "3_037",
+    "formula": [
+      160007,
+      242002,
+      -1
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 1,
+    "num": 0
+  },
+  {
+    "id": "3_038",
+    "formula": [
+      160008,
+      300001,
+      300002
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 2,
+    "num": 0
+  },
+  {
+    "id": "3_039",
+    "formula": [
+      160009,
+      300001,
+      300002
+    ],
+    "result": 0,
+    "weights": [],
+    "speedTime": 2,
+    "num": 0
+  },
+  {
+    "id": "3_040",
+    "formula": [
+      211002,
+      310002,
+      -1
+    ],
+    "result": 213008,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 0.1,
+    "num": 1
+  },
+  {
+    "id": "3_041",
+    "formula": [
+      211002,
+      310002,
+      -1
+    ],
+    "result": 213009,
+    "weights": [
+      2,
+      1,
+      0
+    ],
+    "speedTime": 0.25,
+    "num": 1
+  },
+  {
+    "id": "3_042",
+    "formula": [
+      211007,
+      310002,
+      -1
+    ],
+    "result": 211004,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 0.1,
+    "num": 1
+  },
+  {
+    "id": "3_043",
+    "formula": [
+      211007,
+      -1,
+      -1
+    ],
+    "result": 213010,
+    "weights": [
+      3,
+      0,
+      0
+    ],
+    "speedTime": 0.1,
+    "num": 1
+  },
+  {
+    "id": "3_044",
+    "formula": [
+      213005,
+      213006,
+      -1
+    ],
+    "result": 310003,
+    "weights": [
+      4,
+      1,
+      0
+    ],
+    "speedTime": 3,
+    "num": 1
+  },
+  {
+    "id": "3_045",
+    "formula": [
+      222002,
+      310002,
+      -1
+    ],
+    "result": 213012,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 0.1,
+    "num": 3
+  },
+  {
+    "id": "3_046",
+    "formula": [
+      213012,
+      211002,
+      310002
+    ],
+    "result": 213013,
+    "weights": [
+      1,
+      1,
+      1
+    ],
+    "speedTime": 0.5,
+    "num": 1
+  },
+  {
+    "id": "3_047",
+    "formula": [
+      310002,
+      222003,
+      -1
+    ],
+    "result": 211002,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 0.1,
+    "num": 4
+  },
+  {
+    "id": "3_048",
+    "formula": [
+      213014,
+      213010,
+      -1
+    ],
+    "result": 213015,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 1,
+    "num": 1
+  },
+  {
+    "id": "3_049",
+    "formula": [
+      213015,
+      -1,
+      -1
+    ],
+    "result": 213016,
+    "weights": [
+      3,
+      0,
+      0
+    ],
+    "speedTime": 3,
+    "num": 1
+  },
+  {
+    "id": "3_050",
+    "formula": [
+      310002,
+      241001,
+      -1
+    ],
+    "result": 213018,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 0,
+    "num": 1
+  },
+  {
+    "id": "3_051",
+    "formula": [
+      241001,
+      243003,
+      -1
+    ],
+    "result": 241004,
+    "weights": [
+      1,
+      1,
+      0
+    ],
+    "speedTime": 2,
+    "num": 1
+  }
+]
