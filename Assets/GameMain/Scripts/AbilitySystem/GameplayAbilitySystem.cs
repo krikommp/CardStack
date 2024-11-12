@@ -9,12 +9,18 @@ namespace GameMain.Scripts.AbilitySystem
         
         public void ApplyGameplayEffectToSelf(GameplayEffect effect)
         {
-            if (!CheckCanApplyEffectToTarget(effect, this))
+            ApplyGameplayEffectToTarget(effect, this);
+        }
+        
+        public void ApplyGameplayEffectToTarget(GameplayEffect effect, GameplayAbilitySystem target)
+        {
+            if (!CheckCanApplyEffectToTarget(effect, target))
             {
                 return;
             }
             
-            ApplyEffectToTarget(effect, this);
+            // 需要根据延时，周期，触发条件等来处理
+            ApplyEffectToTarget(effect, target);
         }
         
         private bool CheckCanApplyEffectToTarget(GameplayEffect effect, GameplayAbilitySystem target)
@@ -41,6 +47,8 @@ namespace GameMain.Scripts.AbilitySystem
             {
                 target.m_tagContainer.RemoveTag(removeTag);
             }
+            
+            effect.m_ability.ApplyGameplayAbility(target);
         }
     }
 }
