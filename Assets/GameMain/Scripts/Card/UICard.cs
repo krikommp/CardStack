@@ -2,6 +2,7 @@
 using cfg;
 using Client.GameLogic.Manager;
 using Client.GameLogic.UICardTransform;
+using GameMain.Scripts.AbilitySystem;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
@@ -18,6 +19,7 @@ namespace Client.GameLogic.Card
         private UICardMotionBase m_scale;
         private UICardMotionBase m_rotation;
 
+        private GameplayAbilitySystem m_abilitySystem;
         private MonoBehaviour m_monoBehaviour;
         private RectTransform m_rectTransform;
         private Image m_image;
@@ -85,6 +87,7 @@ namespace Client.GameLogic.Card
             m_monoBehaviour = this;
             m_rectTransform = GetComponent<RectTransform>();
             m_image = GetComponent<Image>();
+            m_abilitySystem = GetComponent<GameplayAbilitySystem>();
             
             m_rectTransform.sizeDelta = GlobalManager.AssetManager.CardParameterDevelopSettings.CardSizeDelta;
             m_rectTransform.localScale = GlobalManager.AssetManager.CardParameterDevelopSettings.CardDefaultScale;
@@ -107,6 +110,7 @@ namespace Client.GameLogic.Card
             
             m_monoBehaviour = null;
             m_rectTransform = null;
+            m_abilitySystem = null;
         }
 
         #endregion
