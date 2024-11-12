@@ -7,7 +7,8 @@ namespace GameMain.Scripts.AbilitySystem
     [Serializable]
     public class GameplayTagNode
     {
-        public GameplayTag m_tag;
+        public string m_tag;
+        public GameplayTagNode m_parent;
         public List<GameplayTagNode> m_children = new List<GameplayTagNode>();
         public bool m_isExtend = false;
     }
@@ -15,16 +16,19 @@ namespace GameMain.Scripts.AbilitySystem
     [CreateAssetMenu(fileName = "GameplayTagManager", menuName = "GAS/GameplayTagManager")]
     public class GameplayTagManager : ScriptableObject
     {
-        public List<GameplayTagNode> m_tagNodes = new List<GameplayTagNode>();
+        [SerializeField] public List<GameplayTagNode> m_tagNodes = new List<GameplayTagNode>();
+
+        public GameplayTag GetGameplayTag(GameplayTagNode node)
+        {
+            // 调用递归方法，构建路径
+            string path = GetNodePath(node, string.Empty);
+            
+            // 返回新的 GameplayTag，带有路径
+            return new GameplayTag(path);
+        }
 
         public void AddTag(string tagName)
         {
-            // 构建树形结构, tagName = "A.B.C.D"
-            // 1. 遍历 m_tagNodes，找到 A
-            // 2. 遍历 A 的 m_children，找到 B
-            // 3. 遍历 B 的 m_children，找到 C
-            // 4. 遍历 C 的 m_children，找到 D
-            
             string[] tagParts = tagName.Split('.');
             GameplayTagNode parentNode = null;
             for (int i = 0; i < tagParts.Length; i++)
@@ -33,18 +37,19 @@ namespace GameMain.Scripts.AbilitySystem
                 GameplayTagNode node = null;
                 if (parentNode == null)
                 {
-                    node = m_tagNodes.Find(n => n.m_tag.m_tagName == tagPart);
+                    node = m_tagNodes.Find(n => n.m_tag == tagPart);
                 }
                 else
                 {
-                    node = parentNode.m_children.Find(n => n.m_tag.m_tagName == tagPart);
+                    node = parentNode.m_children.Find(n => n.m_tag == tagPart);
                 }
 
                 if (node == null)
                 {
                     node = new GameplayTagNode()
                     {
-                        m_tag = new GameplayTag(tagPart)
+                        m_tag = tagPart,
+                        m_parent = parentNode
                     };
                     if (parentNode == null)
                     {
@@ -87,6 +92,25 @@ namespace GameMain.Scripts.AbilitySystem
 
                 DeleteTagNode(tagNode, node);
             }
+        }
+        
+        // 递归查找路径
+        private string GetNodePath(GameplayTagNode node, string currentPath)
+        {
+            if (currentPath == string.Empty)
+            {
+                currentPath = node.m_tag;
+            }
+            else
+            {
+                currentPath = $"{node.m_tag}.{currentPath}";
+            }
+            
+            if (node.m_parent != null)
+            {
+                return GetNodePath(node.m_parent, currentPath);
+            }
+            return currentPath;
         }
     }
 }

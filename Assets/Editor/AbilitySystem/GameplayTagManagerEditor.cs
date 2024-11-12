@@ -56,6 +56,12 @@ namespace Editor
             {
                 DisplayGameplayTagNode(tagNode);
             }
+            
+            if (GUI.changed)
+            {
+                EditorUtility.SetDirty(target);
+            }
+            serializedObject.ApplyModifiedProperties();
         }
 
         private void DisplayGameplayTagNode(GameplayTagNode node, int indentLevel = 0)
@@ -71,7 +77,7 @@ namespace Editor
             // 如果没有子项，则直接显示标签
             if (node.m_children == null || node.m_children.Count == 0)
             {
-                if (GUI.Button(rect, node.m_tag.m_tagName, style))
+                if (GUI.Button(rect, node.m_tag, style))
                 {
                     ShowRightClickMenu(node);
                 }
@@ -81,7 +87,7 @@ namespace Editor
             node.m_isExtend = EditorGUI.Foldout(rect, node.m_isExtend, string.Empty);
             // 创建一个新的Rect来绘制按钮，按钮在Foldout后面
             // 创建按钮
-            if (GUI.Button(rect, node.m_tag.m_tagName, style))
+            if (GUI.Button(rect, node.m_tag, style))
             {
                 ShowRightClickMenu(node);
             }
@@ -101,12 +107,19 @@ namespace Editor
         {
             GenericMenu menu = new GenericMenu();
             menu.AddItem(new GUIContent($"Delete Node"), false, () => OnDeleteNodeClicked(node));
+            menu.AddItem(new GUIContent($"Make tag"), false, () => OnMakeTag(node));
             menu.ShowAsContext();
         }
         
         private void OnDeleteNodeClicked(GameplayTagNode node)
         {
             m_manager.DeleteTag(node);
+        }
+
+        private void OnMakeTag(GameplayTagNode node)
+        {
+            var tag = m_manager.GetGameplayTag(node);
+            Debug.LogError(tag);
         }
     }
 }

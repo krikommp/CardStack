@@ -12,4 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2f21730d6a44b7cb1bd48a45ad5faf6, type: 3}
   m_Name: GameplayTagManager
   m_EditorClassIdentifier: 
-  m_tags: []
+  m_tagNodes:
+  - m_tag: AAA
+    m_children:
+    - m_tag: BBB
+      m_children:
+      - m_tag: CCC
+        m_children: []
+        m_isExtend: 0
+      m_isExtend: 0
+    m_isExtend: 0
