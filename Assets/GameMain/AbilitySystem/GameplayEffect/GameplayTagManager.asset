@@ -20,5 +20,5 @@ MonoBehaviour:
       - m_tag: CCC
         m_children: []
         m_isExtend: 0
-      m_isExtend: 0
-    m_isExtend: 0
+      m_isExtend: 1
+    m_isExtend: 1
